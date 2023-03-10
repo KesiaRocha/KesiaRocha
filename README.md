@@ -19,3 +19,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KesiaRocha&hide_progress=true&theme=dark)](https://github.com/KesiaRocha/github-readme-stats)
 
+<img align= "center" src = ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/124710521/224388297-6bda0d56-b708-4f19-b748-4090cca57e54.gif)>
+
