@@ -19,9 +19,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KesiaRocha&hide_progress=true&theme=swift)](https://github.com/KesiaRocha/github-readme-stats)
 
-img =
+img src =
 "https://media.discordapp.net/attachments/795515503773745152/1083935475527602186/IMG_20230310_231133.jpg">
-<>
+<div>
 
 
 <div style="display: inline_block"><br>
