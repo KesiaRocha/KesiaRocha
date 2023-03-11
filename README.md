@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&size=48&pause=1000&color=E14AFF&width=435&height=100&lines=%E2%9C%A8+Hey+ya!+%E2%9C%A8;I'm+Kesia+Rocha;%E2%98%85%E2%94%81%E2%94%81Welcome%E2%94%81%E2%94%81%E2%98%85)](https://git.io/typing-svg)
 
 
-★彡  Estou estudando JavaScript e Java
+★彡  Estou estudando JavaScript, Java e Python! 👩‍💻
 
 ★彡 Trabalhando em um novo repositório JAVA ☕
 
