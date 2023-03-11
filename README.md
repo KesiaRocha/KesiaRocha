@@ -1,6 +1,9 @@
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&size=48&pause=1000&color=FFFFFF&width=435&height=100&lines=%E2%9C%A8+Hey+ya!+%E2%9C%A8;I'm+Kesia+Rocha;%E2%98%85%E2%94%81%E2%94%81Welcome%E2%94%81%E2%94%81%E2%98%85" alt="Typing SVG" /></a>
 
-https://media.discordapp.net/attachments/795515503773745152/1083932596733481040/98050f12986b5ff520c7c20d844250d8.jpg
+
+<img src = "https://media.discordapp.net/attachments/795515503773745152/1083932596733481040/98050f12986b5ff520c7c20d844250d8.jpg"
+<div>
 
 ★彡  Estou estudando JavaScript, Java e Python! 👩‍💻
 
