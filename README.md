@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=✨HEY YA!✨,+I'm+Kesia+Rocha!;Welcome to my profile,+CE;I+study+at+IFCE+Informatics;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=✨HEY YA!✨,+I'm+Kesia+Rocha!;Welcome to my profile;,+CE;I+study+at+IFCE+Informatics;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 - 📚 Estou estudando JavaScript e Java
