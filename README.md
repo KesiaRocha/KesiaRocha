@@ -1,6 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&size=48&pause=1000&color=E14AFF&width=435&height=100&lines=%E2%9C%A8+Hey+ya!+%E2%9C%A8;I'm+Kesia+Rocha;%E2%98%85%E2%94%81%E2%94%81Welcome%E2%94%81%E2%94%81%E2%98%85)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=✨HEY YA!✨,+I'm+Kesia+Rocha!;Welcome to my profile;,+CE;I+study+at+IFCE+Informatics;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&size=48&pause=1000&color=E14AFF&width=435&height=100&lines=%E2%9C%A8+Hey+ya!+%E2%9C%A8;I'm+Kesia+Rocha;%E2%98%85%E2%94%81%E2%94%81Welcome%E2%94%81%E2%94%81%E2%98%85" alt="Typing SVG" /></a>
 
 - 📚 Estou estudando JavaScript e Java
 - 💻 Trabalhando em um novo repositório JAVA ☕
