@@ -2,8 +2,11 @@
 
 
 ★彡  Estou estudando JavaScript e Java
+
 ★彡 Trabalhando em um novo repositório JAVA ☕
+
 [🤝] Estou Colaborando com Denise Ferreira (@DeniseFer)
+
 ✓ 📫 E-mail institucional: kesia.rocha62@aluno.ifce.edu.br
 
 
