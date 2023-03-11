@@ -14,10 +14,10 @@
 ✓ 📫 E-mail institucional: kesia.rocha62@aluno.ifce.edu.br
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KesiaRocha&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KesiaRocha&show_icons=true&theme=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KesiaRocha&hide_progress=true&theme=dark)](https://github.com/KesiaRocha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KesiaRocha&hide_progress=true&theme=white)](https://github.com/KesiaRocha/github-readme-stats)
 
 <div style="display: inline_block"><br>
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
