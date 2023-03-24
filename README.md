@@ -36,7 +36,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)]([https://open.spotify.com/album/76XckkqatimbtN2NspL4N5?si=II-sKTKYS8edvPgXf5NKAA&utm_source=copy-link)
-<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31crmdp5wnipynpayd7hsfkk3s2a&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff)](https://github.com/kittinan/spotify-github-profile)
   
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
