@@ -28,7 +28,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kesiarocha&label=Profile%20views&color=0e75b6&style=flat" alt="kesiarocha" /> </p>
 
 
-<h3 align="left">Redes !:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/dereyazawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dereyazawa" height="30" width="40" /></a>
 </p>
