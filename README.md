@@ -14,6 +14,16 @@
 ✓ 📫 E-mail institucional: kesia.rocha62@aluno.ifce.edu.br
 
 
+✨Hobbies:
+
+•Desenhar/design 🖌️ 
+
+•Ouvir música 📻
+     
+•Assistir animes 🥷
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KesiaRocha&show_icons=true&theme=swift)
 
 
@@ -38,13 +48,11 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31crmdp5wnipynpayd7hsfkk3s2a&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31crmdp5wnipynpayd7hsfkk3s2a&redirect=true)
   
-✨Hobbies:
 
-•Desenhar/design 🖌️ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kesiarocha&show_icons=true&locale=en&layout=compact" alt="kesiarocha" /></p>
 
-•Ouvir música 📻
-     
-•Assistir animes 🥷
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kesiarocha&show_icons=true&theme=white&title_color=ffffff&text_color=000000&bg_color=ffffff&hide_border=true&locale=en" alt="kesiarocha" /></p>
+
 
 
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
