@@ -38,9 +38,12 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31crmdp5wnipynpayd7hsfkk3s2a&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31crmdp5wnipynpayd7hsfkk3s2a&redirect=true)
   
-Hobbies:
+✨Hobbies:
+
 •Desenhar/design 🖌️ 
-•Ouvir música 🎷
+
+•Ouvir música 📻
+     
 •Assistir animes 🥷
 
 
