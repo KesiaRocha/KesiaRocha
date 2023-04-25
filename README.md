@@ -15,6 +15,7 @@
 
 
 ✨Hobbies:
+
 •Desenhar/design 🖌️ 
 
 •Ouvir música 📻
