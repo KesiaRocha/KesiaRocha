@@ -51,6 +51,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kesiarocha&show_icons=true&locale=en&layout=compact" alt="kesiarocha" /></p> <div>
 
 
+
 <p>&nbsp;<img align="center" src="https://media.discordapp.net/attachments/795515503773745152/1100442325144043530/3a91cbc88f12faada04e9fdedbd71c7c.jpg"
 
 
