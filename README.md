@@ -14,8 +14,8 @@
 ✓ 📫 E-mail institucional: kesia.rocha62@aluno.ifce.edu.br
 
 
-✨Hobbies: "<img src =https://media.discordapp.net/attachments/795515503773745152/1100444765385920674/giphy.gif"<div>
- •Desenhar/design 🖌️ 
+✨Hobbies:
+•Desenhar/design 🖌️ 
 
 •Ouvir música 📻
      
