@@ -6,7 +6,7 @@
 <div>
 
 ★彡  Estou estudando JavaScript, Java e Python! 👩‍💻
-
+★彡  Estudo no curso de informática integrado (P3) no IFCE! 📚
 ★彡 Trabalhando em um novo repositório JAVA ☕
 
 [🤝] Estou Colaborando com [Denise Ferreira](https://github.com/DeniseFer)
