@@ -57,7 +57,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://media.discordapp.net/attachments/795515503773745152/1100442325144043530/3a91cbc88f12faada04e9fdedbd71c7c.jpg"
 
 
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
