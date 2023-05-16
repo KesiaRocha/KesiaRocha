@@ -11,7 +11,7 @@
      
 ★彡 Trabalhando em um novo repositório JAVA ☕
 
-[🤝] Estou Colaborando com [Denise Ferreira](https://github.com/DeniseFer)
+[🤝] Estou Colaborando com [Denise Ferreira](https://github.com/DeniseFer) [Júlia Maria](https://github.com/Julia-maria56) [Allan Martins](https://github.com/Allan-Drip)
 
 ✓ 📫 E-mail institucional: kesia.rocha62@aluno.ifce.edu.br
      
