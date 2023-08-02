@@ -5,8 +5,6 @@
 ★彡  Estou estudando JavaScript, Java e Python! 👩‍💻
      
 ★彡  Estudo no curso de informática integrado (P3) no IFCE! 📚
-     
-★彡 Trabalhando em um novo repositório JAVA ☕
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KesiaRocha&show_icons=true&theme=swift)
