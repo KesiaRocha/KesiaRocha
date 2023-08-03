@@ -1,6 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&size=48&pause=1000&color=FFFFFF&width=435&height=100&lines=%E2%9C%A8+Hey+ya!+%E2%9C%A8;I'm+Kesia+Rocha;%E2%98%85%E2%94%81%E2%94%81Welcome%E2%94%81%E2%94%81%E2%98%85" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&color=00A7F7&center=true&width=436&lines=Bem+vindo+ao+meu+perfil!+(%E2%97%8F'%E2%97%A1'%E2%97%8F);%E2%9C%A8%E2%9C%A8%E2%9C%A8)](https://git.io/typing-svg)
 
 ★彡  Estou estudando JavaScript, Java, Python, CSS e HTML! 👩‍💻
      
@@ -8,9 +7,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KesiaRocha&show_icons=true&theme=swift)
 
-<img src =
-"https://media.discordapp.net/attachments/795515503773745152/1083935475527602186/IMG_20230310_231133.jpg">
-<div>
+
+![tumblr_393648e5391c01154391fd6644c5f107_cd75394c_1280](https://github.com/KesiaRocha/KesiaRocha/assets/124710521/a423b374-7917-408b-aea3-13c31f4fe8e0)
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kesiarocha" alt="kesiarocha" /></a> </p>
