@@ -3,7 +3,7 @@
 
 ★彡  Estou estudando JavaScript, Java, Python, CSS e HTML! 👩‍💻
      
-★彡  Estudo no curso de informática integrado (P4) no IFCE campus fortaleza! 📚
+★彡  Estudo no curso de informática integrado (P5) no IFCE campus fortaleza! 📚
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KesiaRocha&show_icons=true&theme=swift)
 
