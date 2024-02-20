@@ -12,7 +12,10 @@
 
 -----------------------------------------------------------------------
 
-![gifgatinho-ezgif com-effects](https://github.com/KesiaRocha/KesiaRocha/assets/124710521/852d1401-3690-4da8-8865-6c1f5be7c9f3)
+<p align="center">
+  <img src="https://github.com/KesiaRocha/KesiaRocha/assets/124710521/852d1401-3690-4da8-8865-6c1f5be7c9f3" alt="GIF de um gatinho">
+</p>
+
 
 
 <p align="right">
