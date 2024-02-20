@@ -1,30 +1,41 @@
+------------------------------------------------------------------
+<h1 align="center"> ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Bem vindo ao meu perfil! ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h1>
 
 
 
-     
-★彡  Estudo no curso de informática integrado (P5) no [IFCE](https://ifce.edu.br/fortaleza) campus Fortaleza!
-! 📚 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KesiaRocha&show_icons=true&theme=swift)
+![gifdeanime-ezgif com-resize](https://github.com/KesiaRocha/KesiaRocha/assets/124710521/7ffd606d-74f7-4d52-b369-7a1ebfbf95ce)
 
 
-![tumblr_393648e5391c01154391fd6644c5f107_cd75394c_1280](https://github.com/KesiaRocha/KesiaRocha/assets/124710521/a423b374-7917-408b-aea3-13c31f4fe8e0)
+★彡  Estudo no curso de informática integrado (P5) no [IFCE](https://ifce.edu.br/fortaleza) campus Fortaleza! ☾
+
+★彡  Tenho 17 anos, fluente em: 🇧🇷 🇺🇸
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kesiarocha" alt="kesiarocha" /></a> </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kesiarocha&label=Profile%20views&color=0e75b6&style=flat" alt="kesiarocha" /> </p>
+![gifgatinho-ezgif com-effects](https://github.com/KesiaRocha/KesiaRocha/assets/124710521/852d1401-3690-4da8-8865-6c1f5be7c9f3)
 
 
-# <h3 align="left">★Estudando / Utilizo:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode,)](https://skillicons.dev)
-
-
-  ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=KesiaRocha&show_icons=false&theme=dark" alt="Anurag's GitHub stats">
+</p>
 
 
-  
+<p align="left"> <a href=https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie<img src="https://github-profile-trophy.vercel.app/?username=kesiarocha" alt="kesiarocha" /></a> </p>
+
+<p align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kesiarocha&label=Profile%20views&color=0e75b6&style=flat" alt="kesiarocha">
+</p>
+
+<h3 align="center">★ Estudando / Utilizo:</h3>
+<p align="center">
+  <a href="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode">
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,nodejs,swift,sqlite,replit,figma,vscode" alt="My Skills">
+  </a>
+</p>
+
 
