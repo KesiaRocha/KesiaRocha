@@ -10,6 +10,7 @@
 
 ★彡  Tenho 17 anos, fluente em: 🇧🇷 🇺🇸
 
+-----------------------------------------------------------------------
 
 ![gifgatinho-ezgif com-effects](https://github.com/KesiaRocha/KesiaRocha/assets/124710521/852d1401-3690-4da8-8865-6c1f5be7c9f3)
 
