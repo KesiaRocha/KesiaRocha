@@ -1,9 +1,9 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=30&pause=1000&color=00A7F7&center=true&width=436&lines=Bem+vindo+ao+meu+perfil!+(%E2%97%8F'%E2%97%A1'%E2%97%8F);%E2%9C%A8%E2%9C%A8%E2%9C%A8)](https://git.io/typing-svg)
 
-★彡  Estou estudando JavaScript, Java, Python, CSS e HTML! 👩‍💻
+
      
-★彡  Estudo no curso de informática integrado (P5) no IFCE campus fortaleza! 📚
+★彡  Estudo no curso de informática integrado (P5) no [IFCE](https://ifce.edu.br/fortaleza) campus Fortaleza!
+! 📚 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KesiaRocha&show_icons=true&theme=swift)
 
