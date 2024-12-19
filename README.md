@@ -6,7 +6,7 @@
 ![gifdeanime-ezgif com-resize](https://github.com/KesiaRocha/KesiaRocha/assets/124710521/7ffd606d-74f7-4d52-b369-7a1ebfbf95ce)
 
 
-★彡  Estudo no curso de informática integrado (P5) no [IFCE](https://ifce.edu.br/fortaleza) campus Fortaleza! ☾
+★彡  Estudo no curso de informática integrado (P6) no [IFCE](https://ifce.edu.br/fortaleza) campus Fortaleza! ☾
 
 ★彡  Tenho 17 anos, fluente em: 🇧🇷 🇺🇸
 
