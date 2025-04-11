@@ -13,6 +13,18 @@
 ★彡  Tenho 18 anos, langs: 🇧🇷 🇺🇸
 
 -----------------------------------------------------------------------
+# ★彡 Alguns projetos realizados:
+
+GDT - Guia do Trabalhador https://github.com/KesiaRocha/GUIADOTRABALHADOR
+
+AdoptOn https://github.com/KesiaRocha/AdoptOn
+
+DailyMelody https://github.com/KesiaRocha/DailyMelody
+
+SaveWave 
+
+CalcSimple https://github.com/KesiaRocha/CalcSimple
+
 
 <p align="center">
   <img src="https://github.com/KesiaRocha/KesiaRocha/assets/124710521/852d1401-3690-4da8-8865-6c1f5be7c9f3" alt="GIF de um gatinho">
