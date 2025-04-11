@@ -15,15 +15,15 @@
 -----------------------------------------------------------------------
 # ★彡 Alguns projetos realizados:
 
-GDT - Guia do Trabalhador https://github.com/KesiaRocha/GUIADOTRABALHADOR
+📰 [GDT - Guia do Trabalhador](https://github.com/KesiaRocha/GUIADOTRABALHADOR)
 
-AdoptOn https://github.com/KesiaRocha/AdoptOn
+🐶 [AdoptOn](https://github.com/KesiaRocha/AdoptOn)
 
-DailyMelody https://github.com/KesiaRocha/DailyMelody
+🎵 [DailyMelody](https://github.com/KesiaRocha/DailyMelody)
 
-SaveWave 
+🌊 [SaveWave](https://github.com/DeniseFer/SaveWave)
 
-CalcSimple https://github.com/KesiaRocha/CalcSimple
+🔢 [CalcSimple](https://github.com/KesiaRocha/CalcSimple)
 
 
 <p align="center">
