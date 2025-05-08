@@ -37,11 +37,11 @@
 </p>
 
 
-<p align="left"> <a href=https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie<img src="https://github-profile-trophy.vercel.app/?username=kesiarocha" alt="kesiarocha" /></a> </p>
+<p align="left"> <a href=https://github-profile-trophy.vercel.app/?username?theme=dark"<img src="https://github-profile-trophy.vercel.app/?username=kesiarocha" alt="kesiarocha" /></a> </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs">
+  <a href="https://github.com/KesiaRocha/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KesiaRocha&layout=compact" alt="Top Langs">
   </a>
 </p>
 
